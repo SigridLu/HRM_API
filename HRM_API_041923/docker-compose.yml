@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  hrm_api_041923:
+    image: ${DOCKER_REGISTRY-}hrmapi041923
+    build:
+      context: .
+      dockerfile: ./Dockerfile

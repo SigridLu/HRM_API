@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{77DF2E6D-27FC-4DC0-8B0B-97B3C3A5B726}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.HRM__API__041923 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench>
+    <FloatingWindows>
+      <FloatingWindow WindowId="1" X="-262" Y="964" Width="1920" Height="991">
+        <Files>
+          <File FileName="../HRM_API_ApplicationCore/Entities/Candidate.cs" Line="17" Column="54" />
+        </Files>
+      </FloatingWindow>
+    </FloatingWindows>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HRM_API_041923" expanded="True">
+            <Node name="HRM_API_041923" expanded="True">
+              <Node name="docker-compose" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
